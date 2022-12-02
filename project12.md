@@ -92,7 +92,7 @@ Let see code re-use in action by importing other playbooks.
 - import_playbook: ../static-assignments/common.yml
 ```
 
-![](./images/site.PNG)
+![](./images/update%20config01.PNG)
 
 The code above uses built in import_playbook Ansible module.
 
